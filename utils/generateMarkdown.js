@@ -14,24 +14,24 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `
   # ${data.title} 
-  
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
   
   ${data.description}
 
   ## Table of Contents
 
-  *[Installation](#installation)
+  * [Installation](#installation)
 
-  *[Usage](#usage)
+  * [Usage](#usage)
 
-  *[Contributing](#contributing)
+  * [Contributing](#contributing)
 
-  *[Tests](#tests)
+  * [Tests](#tests)
 
-  *[Email](#email)
+  * [Email](#email)
 
-  *[Github](#github)
+  * [Github](#github)
 
   ## Instalation
 
@@ -59,7 +59,7 @@ function generateMarkdown(data) {
 
   ## Github
 
-  ${data.github}
+  https://github.com/${data.github}
 
 `;
 }
