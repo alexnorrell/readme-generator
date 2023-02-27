@@ -15,11 +15,13 @@
 
   * [Tests](#tests)
 
+  
+
   * [Email](#email)
 
   * [Github](#github)
 
-  ## Instalation
+  ## Installation
 
   123
 
@@ -35,15 +37,13 @@
 
   123
 
-  ## License
-
-  MIT
+  
 
   ## Email
 
-  norrell.alex@gmail.com
+  123
 
   ## Github
 
-  https://github.com/alexnorrell
+  https://github.com/123
 

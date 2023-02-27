@@ -29,7 +29,7 @@ const questions = [
         type:'input', name:'github', message:'What is your gut hub username?'
     },    
     {
-        type:'checkbox', name:'license', message:'What license are you using?', choices: ['MIT', 'Boost', 'BSD_3', 'Mozilla', 'Apache_2.0']
+        type:'list', name:'license', message:'What license are you using?', choices: ['MIT', 'Boost', 'BSD_3', 'Mozilla', 'Apache_2.0', 'None']
     }
 
     
