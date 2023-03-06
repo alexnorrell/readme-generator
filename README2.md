@@ -1,9 +1,9 @@
 
-  # 123 
+  # Readme Generator 
   
   ## Description
   
-  123
+  a thing that generates a readme
 
   ## Table of Contents
 
@@ -23,27 +23,27 @@
 
   ## Installation
 
-  123
+  no installation
 
   ## Usage
 
-  123
+  it makes life easier
 
   ## Contributing
 
-  123
+  run node index.js then fallow prompts
 
   ## Tests
 
-  123
+  run'em
 
   
 
   ## Email
 
-  123
+  norrell.alex@gmail.com
 
   ## Github
 
-  https://github.com/123
+  https://github.com/alexnorrell
 
